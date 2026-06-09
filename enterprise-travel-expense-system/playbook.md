@@ -1,0 +1,289 @@
+Prompt Playbook for Software Development 
+1. Requirement Analysis Prompt
+Purpose
+Understand BRD, PRD, User Story, or Client Requirements.
+Template
+Role: Act as a Senior Software Developer.
+Task: Analyze the provided requirements.
+Input:
+Provide:
+* Functional Requirements
+* Non-Functional Requirements
+* Assumptions
+* Edge Cases
+* Technical Challenges
+* Implementation Approach
+
+2. System Design Prompt
+Purpose
+Design a scalable solution before development.
+Template
+Role: Act as a Software Architect and Senior Developer.
+Task: Design a solution for the following requirement.
+Requirement:
+Provide:
+* High-Level Architecture
+* Components
+* Database Design
+* API Design
+* Security Considerations
+* Scalability Considerations
+
+3. Backend Development Prompt
+Purpose
+Generate backend implementation.
+Template
+Role: Act as a Senior Backend Developer.
+Task: Implement the backend for the following feature.
+Requirement:
+Provide:
+* Project Structure
+* API Endpoints
+* Service Layer
+* Repository Layer
+* Database Changes
+* Validation Rules
+* Error Handling
+* Production Ready Code
+
+4. Frontend Development Prompt
+Purpose
+Generate UI implementation.
+Template
+Role: Act as a Senior Frontend Developer.
+Task: Implement the frontend for the following feature.
+Requirement:
+Provide:
+* UI Components
+* Screen Flow
+* State Management
+* API Integration
+* Error Handling
+* Production Ready Code
+
+5. Full Stack Development Prompt
+Purpose
+Generate end-to-end implementation.
+Template
+Role: Act as a Full Stack Developer.
+Task: Implement the feature end-to-end.
+Requirement:
+Provide:
+* Database Design
+* Backend Implementation
+* APIs
+* Frontend Implementation
+* Testing Strategy
+
+6. API Design Prompt
+Purpose
+Design REST APIs.
+Template
+Role: Act as a Senior Backend Engineer.
+Task: Design APIs for the following module.
+Module:
+Provide:
+* API Endpoints
+* Request Body
+* Response Body
+* Validation Rules
+* Error Responses
+* Security Considerations
+
+7. Database Design Prompt
+Purpose
+Design database schema.
+Template
+Role: Act as a Database Architect.
+Task: Design a database schema.
+Requirement:
+Provide:
+* Tables
+* Columns
+* Data Types
+* Primary Keys
+* Foreign Keys
+* Indexes
+* ER Diagram Description
+
+8. Code Review Prompt
+Purpose
+Review existing code.
+Template
+Role: Act as a Senior Software Developer.
+Task: Review the following code.
+Code:
+Review:
+* Code Quality
+* Performance
+* Security
+* Maintainability
+* Best Practices
+Provide:
+* Issues
+* Improvements
+* Refactored Code
+
+9. Debugging Prompt
+Purpose
+Identify and fix issues.
+Template
+Role: Act as a Senior Software Developer.
+Task: Debug the issue.
+Context:
+Issue:
+Provide:
+* Root Cause
+* Impact
+* Fix
+* Updated Code
+* Prevention Strategy
+
+10. Refactoring Prompt
+Purpose
+Improve existing code.
+Template
+Role: Act as a Senior Software Developer.
+Task: Refactor the following code.
+Code:
+Focus On:
+* Readability
+* Maintainability
+* Performance
+* Best Practices
+Provide:
+* Problems
+* Refactored Version
+* Explanation
+
+11. Unit Test Prompt
+Purpose
+Generate test cases.
+Template
+Role: Act as a QA Engineer.
+Task: Generate unit tests.
+Code:
+Provide:
+* Positive Test Cases
+* Negative Test Cases
+* Edge Cases
+* Test Implementation
+
+12. Test Case Generation Prompt
+Purpose
+Create QA test scenarios.
+Template
+Role: Act as a QA Engineer.
+Task: Generate test cases.
+Requirement:
+Provide:
+* Functional Test Cases
+* Negative Test Cases
+* Boundary Test Cases
+* Integration Test Cases
+
+13. Security Review Prompt
+Purpose
+Find security vulnerabilities.
+Template
+Role: Act as a Security Engineer.
+Task: Review the following implementation.
+Code:
+Check:
+* Authentication
+* Authorization
+* SQL Injection
+* XSS
+* Sensitive Data Exposure
+Provide:
+* Risks
+* Severity
+* Recommendations
+
+14. Documentation Prompt
+Purpose
+Create technical documentation.
+Template
+Role: Act as a Technical Writer and Senior Developer.
+Task: Create documentation.
+Input:
+Provide:
+* Overview
+* Architecture
+* APIs
+* Database Changes
+* Usage Examples
+
+15. BRD to Development Plan Prompt
+Purpose
+Convert BRD into implementation tasks.
+Template
+Role: Act as a Technical Lead.
+Task: Convert the BRD into development tasks.
+Input:
+Provide:
+* Features
+* Backend Tasks
+* Frontend Tasks
+* Database Tasks
+* API Tasks
+* Testing Tasks
+* Effort Estimation
+
+16. Performance Optimization Prompt
+Purpose
+Improve application performance.
+Template
+Role: Act as a Performance Engineer.
+Task: Analyze and optimize.
+Code/System:
+Provide:
+* Bottlenecks
+* Root Causes
+* Optimization Strategy
+* Updated Code
+
+17. AI Prompt Improvement Prompt
+Purpose
+Improve existing prompts.
+Template
+Role: Act as an Expert Prompt Engineer.
+Task: Improve the following prompt.
+Prompt:
+Provide:
+* Improved Prompt
+* Missing Context
+* Better Structure
+* Best Practices Applied
+
+18. End-to-End Project Implementation Prompt
+Purpose
+Generate complete project implementation.
+Template
+Role: Act as a Software Architect, Backend Developer, Frontend Developer, Database Administrator, DevOps Engineer, QA Engineer, and Technical Lead.
+Task: Design and implement the complete system.
+Requirement:
+Provide:
+* Architecture
+* Database Design
+* API Design
+* Backend Implementation
+* Frontend Implementation
+* Deployment Strategy
+* Testing Strategy
+* Security Considerations
+* Production Readiness Checklist
+  Prompt Playbook:  1.  Frontend Development Prompt
+Purpose
+Generate UI implementation.
+Template
+Role: Act as a Senior Frontend Developer.
+Task: Implement the frontend for the following feature.
+Requirement: 
+Provide:
+* UI Components
+* Screen Flow
+* State Management
+* API Integration
+* Error Handling
+* Production Ready Code       
